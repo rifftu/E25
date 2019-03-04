@@ -1,0 +1,85 @@
+[DWF6Version]
+Ver=1
+[DWF6MinorVersion]
+MinorVer=1
+[DWF6Sheet:VMGED2 Chapter 11 Problem 3d-Model]
+DWG=C:\Users\Jerry\Desktop\e25 sketchy inventor\11-6\VMGED2 Chapter 11 Problem 3d.dwg
+Layout=Model
+Setup=
+OriginalSheetPath=C:\Users\Jerry\Desktop\e25 sketchy inventor\11-6\VMGED2 Chapter 11 Problem 3d.dwg
+Has Plot Port=0
+Has3DDWF=0
+[DWF6Sheet:VMGED2 Chapter 11 Problem 3d-Layout1]
+DWG=C:\Users\Jerry\Desktop\e25 sketchy inventor\11-6\VMGED2 Chapter 11 Problem 3d.dwg
+Layout=Layout1
+Setup=
+OriginalSheetPath=C:\Users\Jerry\Desktop\e25 sketchy inventor\11-6\VMGED2 Chapter 11 Problem 3d.dwg
+Has Plot Port=0
+Has3DDWF=0
+[DWF6Sheet:VMGED2+Chapter+11+Problem+3a-Model]
+DWG=C:\Users\Jerry\Desktop\e25 sketchy inventor\11-6\VMGED2+Chapter+11+Problem+3a.dwg
+Layout=Model
+Setup=
+OriginalSheetPath=C:\Users\Jerry\Desktop\e25 sketchy inventor\11-6\VMGED2+Chapter+11+Problem+3a.dwg
+Has Plot Port=0
+Has3DDWF=0
+[DWF6Sheet:VMGED2+Chapter+11+Problem+3a-Layout1]
+DWG=C:\Users\Jerry\Desktop\e25 sketchy inventor\11-6\VMGED2+Chapter+11+Problem+3a.dwg
+Layout=Layout1
+Setup=
+OriginalSheetPath=C:\Users\Jerry\Desktop\e25 sketchy inventor\11-6\VMGED2+Chapter+11+Problem+3a.dwg
+Has Plot Port=0
+Has3DDWF=0
+[DWF6Sheet:VMGED2 Chapter 11 Problem 3b-Model]
+DWG=C:\Users\Jerry\Desktop\e25 sketchy inventor\11-6\VMGED2 Chapter 11 Problem 3b.dwg
+Layout=Model
+Setup=
+OriginalSheetPath=C:\Users\Jerry\Desktop\e25 sketchy inventor\11-6\VMGED2 Chapter 11 Problem 3b.dwg
+Has Plot Port=0
+Has3DDWF=0
+[DWF6Sheet:VMGED2 Chapter 11 Problem 3b-Layout1]
+DWG=C:\Users\Jerry\Desktop\e25 sketchy inventor\11-6\VMGED2 Chapter 11 Problem 3b.dwg
+Layout=Layout1
+Setup=
+OriginalSheetPath=C:\Users\Jerry\Desktop\e25 sketchy inventor\11-6\VMGED2 Chapter 11 Problem 3b.dwg
+Has Plot Port=0
+Has3DDWF=0
+[Target]
+Type=6
+DWF=C:\Users\Jerry\Desktop\e25 sketchy inventor\11-6\VMGED2 Chapter 11 Problem 3d.pdf
+OUT=C:\Users\Jerry\Documents\
+PWD=
+[MRU Sheet List]
+MRU=0
+[PdfOptions]
+IncludeHyperlinks=TRUE
+CreateBookmarks=TRUE
+CaptureFontsInDrawing=TRUE
+ConvertTextToGeometry=FALSE
+VectorResolution=1200
+RasterResolution=400
+[AutoCAD Block Data]
+IncludeBlockInfo=0
+BlockTmplFilePath=
+[SheetSet Properties]
+IsSheetSet=FALSE
+IsHomogeneous=FALSE
+SheetSet Name=
+NoOfCopies=1
+PlotStampOn=FALSE
+ViewFile=FALSE
+JobID=0
+SelectionSetName=
+AcadProfile=<<Unnamed Profile>>
+CategoryName=
+LogFilePath=
+IncludeLayer=TRUE
+LineMerge=FALSE
+CurrentPrecision=
+PromptForDwfName=TRUE
+PwdProtectPublishedDWF=FALSE
+PromptForPwd=FALSE
+RepublishingMarkups=FALSE
+PublishSheetSetMetadata=FALSE
+PublishSheetMetadata=FALSE
+3DDWFOptions=0 1
